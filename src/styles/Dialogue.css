@@ -1,0 +1,53 @@
+.name_character {
+    position: absolute;
+    bottom: 15vh;
+    left: 0;
+    min-width: 13vw;
+    height: 8vh;
+    color: white;
+    background: rgb(61,61,61, 0.6);
+    border-top: 1px solid white;
+    font-size: 18px;
+}
+.name_character p{
+    padding: 1vh 5vw;
+}
+.diolog {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 15vh;
+    color: white;
+    background: rgb(61,61,61);
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border-top: 1px solid white;
+    font-size: 16px;
+}
+.description p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    bottom: 0;
+    left: 0;
+    height: 70vh;
+    font-size: 20px;
+}
+.header p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    bottom: 0;
+    left: 0;
+    height: 70vh;
+    font-size: 50px;
+}
+
+.img_character {
+    position: absolute;
+    height: 80vh;
+    right: 10vw;
+    bottom: 0px;;
+}

@@ -1,0 +1,207 @@
+.conteiner {
+    background-image: url(../IMG/backgrounds/bg0.png);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    width: 100vw;
+    height: 100vh;
+}
+.go_to_home {
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 35px;
+    height: 35px;
+    border: 1px solid white;
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    box-shadow: 0 0 0 2px rgb(61,61,61), 0 0 0 1px white; 
+    font-size: 20px;
+}
+.history {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 85vh;
+}
+.story1{
+    width: 12vw;
+    height: 5vh;   
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border: 1px solid black;
+    margin-left: 2vw;
+}
+.line1{
+    width: 2vw;
+    height: 2vh;   
+    border-top: 1px solid black;
+    margin-top: 1.5vh;
+}
+.line2{
+    width: 2vw;
+    height: 30vh;   
+    border: 1px solid black;
+    border-right: none;
+    margin-top: 15vh;
+}
+.story2{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 12vw;
+    height: 35vh; 
+    margin-top: 15vh;
+}
+.story2 div{
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border: 1px solid black;
+    width: 12vw;
+    height: 5vh; 
+}
+.line3 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 2vw;
+    height: 30vh; 
+    margin-top: 15vh;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.line4 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 2vw;
+    height: 45vh; 
+}
+.line4_1 {
+    width: 2vw;
+    height: 30vh; 
+    border: 1px solid black;
+    border-right: none;
+}
+.line4_2 {
+    width: 2vw;
+    height: 15vh; 
+    border-bottom: 1px solid black;
+}
+.story3 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 12vw;
+    height: 47.5vh; 
+    margin-bottom: 2.5vh;
+}
+.story3_1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 12vw;
+    height: 35vh; 
+}
+.story3_1 div{
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border: 1px solid black;
+    width: 12vw;
+    height: 5vh; 
+}
+.line5 {
+    width: 12vw;
+    height: 12.5vh; 
+    border-bottom: 1px solid black;
+}
+.line6 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 2vw;
+    height: 45vh; 
+}
+.line6_1 {
+    width: 2vw;
+    height: 30vh; 
+    border-top: 1px solid black;
+}
+.line6_2 {
+    width: 2vw;
+    height: 15vh; 
+    border: 1px solid black;
+    border-left: none;
+}
+.line7 {
+    width: 2vw;
+    height: 40vh; 
+    margin-bottom: 5vh;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.line8{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 2vw;
+    height: 60vh; 
+    margin-bottom: 5vh;
+}
+.line8 div{
+    border: 1px solid black;
+    border-right: none;
+    width: 2vw;
+    height: 20vh; 
+}
+.story4{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 12vw;
+    height: 65vh; 
+    margin-bottom: 5vh;
+}
+.story4 div{
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border: 1px solid black;
+    width: 12vw;
+    height: 5vh; 
+}
+.line9{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 2vw;
+    height: 60vh; 
+    margin-bottom: 5vh;
+}
+.line9 div{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 2vw;
+    height: 20vh; 
+}
+.line10{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 2vw;
+    height: 70vh; 
+    margin-bottom: 5vh;
+}
+.line10 div{
+    border: 1px solid black;
+    border-right: none;
+    width: 2vw;
+    height: 10vh; 
+}
+.story5{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 12vw;
+    height: 75vh; 
+    margin-bottom: 5vh;
+}
+.story5 div{
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border: 1px solid black;
+    width: 12vw;
+    height: 5vh; 
+}

@@ -1,0 +1,22 @@
+.choice {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+    bottom: 0;
+    left: 0;
+    width: 20vw;
+    height: 40vh;
+    color: white;
+    background: rgb(61,61,61);
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border: 1px solid white;
+    box-shadow: 0 0 0 2px rgb(61,61,61), 0 0 0 1px white;
+}
+ 
+.choice button {
+    width: 15vw;
+    min-height: 5vh;
+    border: 1px solid white;
+    box-shadow: 0 0 0 2px rgb(61,61,61), 0 0 0 1px white;
+}

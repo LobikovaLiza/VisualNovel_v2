@@ -1,0 +1,3347 @@
+{
+  "1": [
+    {
+      "text": "Неделю назад мой отец, капитан из ордена рыцарей, отправился помочь своему брату в свой родной город Бэтфорд и пропал без вести.",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "description"
+    },
+    {
+      "text": "Я решил отправиться в Бэтфорд той же дорогой и узнать, что случилось с моим отцом.",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "description"
+    },
+    {
+      "text": "По дороге в Бэтфорд я решил зайти в небольшой городок Фландэр, чтобы пополнить запасы и попробовать узнать что-нибудь о своём отце.",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "description"
+    },
+    {
+      "text": "Фландэр",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "На главной площади города стоял шум и гам, судя по всему, в нем проходила ярмарка. Один мальчишка, пробегая, задел коробку с яблоками и побоявшись гнева продавца быстро убежал прочь.",
+      "dg": "bg1.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "2v1": [
+    {
+      "text": "Вы подошли и помогли продавцу собрать яблоки.",
+      "dg": "bg1.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спасибо, юноша. Я тебя кажись раньше не встречал, ты путешественник или торговец?",
+      "dg": "bg1.png",
+      "character": "Продавец",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Вообще я работаю рыцарем в соседнем городе, но мой отец недавно пропал, и я решил отправиться на его поиски.",
+      "dg": "bg1.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "О, вот оно как… Ну удачи тебе с его поисками юноша. А точно, у нас на этой ярмарке гадалка имеется. Народ поговаривает, что она не скажет – всё сбудется. Попробуй может к ней сходить, да про отца узнать.",
+      "dg": "bg1.png",
+      "character": "Продавец",
+      "img_character": null,
+      "type": "dialogue"
+    }
+  ],
+  "2v2": [
+    {
+      "text": "Вы решаете не тратить своё время зря и закупившись всем необходимым, начинаете опрашивать местных жителей о своём отце и узнаёте, что он был в этом городе и отправился из него в Бэтфорд. Поблагодарив жителей вы отправились в следующий город.",
+      "dg": "bg1.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "3v1": [
+    {
+      "text": "Я не особо в подобное верю, но попробовать может быть стоит.",
+      "dg": "bg1.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Поблагодарив продавца вы отправляетесь к гадалке.",
+      "dg": "bg1.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "У шатра гадалки собралось достаточно много людей, но постояв какое-то время в очереди вы наконец-то попали к ней.",
+      "dg": "bg1.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Приветствую вас молодой человек. Чем могу помочь?",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Приятно познакомиться. Неделю назад мой отец отправился в Бэтфорд и пропал. Не можете ли вы помочь мне его найти?",
+      "dg": "bg2.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Конечно.",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я вижу твой отец весьма сильный и добрый человек. Он ведь был рыцарем?",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да, вы правы, отец был рыцарем.",
+      "dg": "bg2.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Он отправился в Бэтфорд, чтобы помочь близкому человеку. Это скорее всего был его отец, нет, это был его брат. Верно?",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да…",
+      "dg": "bg2.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Мне жаль это говорить, но твоего отца больше нет. И тебе нужно прекратить его поиски, иначе и тебя ждёт не самый приятный конец.",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg2.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Значит отец мёртв…",
+      "dg": "bg2.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Прими мои глубочайшие соболезнования.",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Нет.",
+      "dg": "bg2.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Что?",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Спасибо за сеанс, но я не за что не поверю в смерть отца, пока не увижу его труп собственными глазами.",
+      "dg": "bg2.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ну, в конечном счёте, эта твоя судьба и тебе самому решать, как ей расположиться, я могу лишь дать совет. Но всё равно будь осторожен и обдумай все хорошо.",
+      "dg": "bg2.png",
+      "character": "Гадалка",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы вышли из шатра и закупившись всем необходимым, начинаете опрашивать местных жителей о своём отце и узнаёте, что он был в этом городе и отправился из него в Бэтфорд. Поблагодарив жителей вы отправились в следующий город.",
+      "dg": "bg1.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "3v2": [
+    {
+      "text": "Я не особо верю в подобное.",
+      "dg": "bg1.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Поблагодарив продавца вы, закупившись всем необходимым, начинаете опрашивать местных жителей о своём отце и узнаёте, что он был в этом городе и отправился из него в Бэтфорд. Поблагодарив жителей вы отправились в следующий город.",
+      "dg": "bg1.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "4": [
+    {
+      "text": "По дороге в Бэтфорд",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Наступила ночь, так как вы не успели добраться до города вы решили разбить лагерь в поле.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вдруг вы услышали какой-то шорох.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "5v1": [
+    {
+      "text": "Вы решаете узнать откуда раздался шум.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Подойдя к месту откуда был слышен шум вы нашли молодого юношу. Если судить по одежде, то похоже он был священником. Судя по его состоянию, он упал в обморок от истощения.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ну не оставлять же его здесь одного в таком состоянии…",
+      "dg": "bg3.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы дотрагиваетесь до него в попытке разбудить.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Священник медленно открыл глаза, но увидев вас тут же вскочил, направив на вас посох и заговорил дрожащим голосом.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Если ты вор, то учти, что я довольно сильный маг и если не хочешь пострадать, то лучше тебе уйти по-хорошему.",
+      "dg": "bg3.png",
+      "character": "Священник",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Сильно сомневаюсь, что в таком состоянии ты сможешь даже ребёнка победить.",
+      "dg": "bg3.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Поняв, что блефовать не удалось, священник лишь сильнее сжал посох, а его дыхание сбилось.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Не переживай, я не вор. Даже наоборот, я рыцарь из города неподалёку и изначально хотел помочь. Пойдём я как раз приготовил поесть.",
+      "dg": "bg3.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы приводите священника в лагерь и даёте еду.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "А? Спасибо…",
+      "dg": "bg3.png",
+      "character": "Священник",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Меня зовут Кейл. А как тебя зовут?",
+      "dg": "bg3.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я Ральф, странствующий маг-священник. Хожу по миру, читаю проповеди, спасаю страждущих, пытаюсь помочь сбившемся с пути и так далее и тому подобное. А ты как тут оказался, рыцари ведь обычно редко покидают свой город?",
+      "dg": "bg3.png",
+      "character": "Священник",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я иду в Бэтфорд в поисках отца, он пропал около недели назад.",
+      "dg": "bg3.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "О, я как раз туда направляюсь, хочешь помогу с поисками?",
+      "dg": "bg3.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я б не отказался, но учти, что мне нечем тебе заплатить.",
+      "dg": "bg3.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Не переживай, какой же я тогда священник если отказываюсь помогать людям из-за денег. В добавок ты меня покормил так что я теперь в долгу.",
+      "dg": "bg3.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "С такой идеологией не боишься когда-нибудь просто умереть с голода?",
+      "dg": "bg3.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Не переживай, мне, как священнику, церковь выделяет кое-какие деньги, правда я плохо умею правильно их рассчитывать.",
+      "dg": "bg3.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Поговорив ещё немного вы вместе с священником отправились спать.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "5v2": [
+    {
+      "text": "Скорее всего это просто какое-нибудь лесное животное.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Поужинав, вы отправились спать.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "6": [
+    {
+      "text": "С самого утра вы снова выдвинулись в путь.",
+      "dg": "bg3.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "По дороге в Бэтфорд вы наткнулись на маленькую деревню.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Деревня",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Подойдя к ней поближе вы увидели что местные житель кого-то избивают.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "7v1": [
+    {
+      "text": "Что здесь происходит?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А тебе какое дело?",
+      "dg": "bg4.png",
+      "character": "Крестьянин",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Прямое. Я рыцарь из города неподалёку и в мои обязанности входит доставка преступников в город для дальнейшего суда.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Это не человек. Просто нечисть, тут и одних нас хватит что бы её убить.",
+      "dg": "bg4.png",
+      "character": "Крестьянин",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Всё-таки давайте лучше я, нечисть временами бывает довольно хитра. Она может выжидать пока вы расслабитесь, чтобы нанести удар исподтишка.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Крестьяне начали беспокойно переглядываться и отступили от нечисти.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы достаёте меч, подходите к нечисти и понимаете, что что-то не так.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Это же разве не эльф?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Эльф, тролль или водяной. Какая разница? Что то нечеловеческое нечто, что это.",
+      "dg": "bg4.png",
+      "character": "Крестьянин",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Вот только в нашей стране эльфы считаются равными по правам людям, а не нечисти. Следовательно, устраивать самосуд над эльфом, точно так же как и над человеком вы права не имеете.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Проспорив с крестьянами ещё какое-то время вам наконец-то удаётся убедить крестьян оставить эльфийку в покое, правда пришлось пригрозить арестом за попытку убийства.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Крестьяне ушли, оставив вас наедине с эльфийкой.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы помогли эльфийке подняться.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ты как?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Могло быть и лучше.",
+      "dg": "bg4.png",
+      "character": "Эльфийка",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Как тебя зовут?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль. А тебя?",
+      "dg": "bg4.png",
+      "character": "Эльфийка",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Кейл. Что ты здесь делала? В этой местности редко можно встретить представителей вашей расы.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я просто иду куда глаза глядят. А что запрещено?",
+      "dg": "bg4.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Нет.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А ты что здесь забыл?",
+      "dg": "bg4.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я иду в Бэтфорд в поисках отца, он пропал около недели назад.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ты мне сильно помог, так что я теперь твоя должница. Я довольно неплохо сражаюсь и умею призывать духов леса. Так что давай, в благодарность за спасение, я помогу тебе с поисками твоего отца в Городе 2?",
+      "dg": "bg4.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Хорошо.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    }
+  ],
+  "7v2": [
+    {
+      "text": "Что здесь происходит?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А тебе какое дело?",
+      "dg": "bg4.png",
+      "character": "Крестьянин",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Прямое. Я рыцарь из города неподалёку и в мои обязанности входит доставка преступников в город для дальнейшего суда.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Это не человек. Просто нечисть, тут и одних нас хватит что бы её убить.",
+      "dg": "bg4.png",
+      "character": "Крестьянин",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Это странно. Нечисть обычно не нападает днём, ведь в ночи она гораздо сильнее. Разрешите посмотреть, что за 'нечисть' вы поймали?",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Крестьяне начали переглядываться и отступили от нечисти.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Это же разве не эльф?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Эльф, тролль или водяной. Какая разница? Что то нечеловеческое нечто, что это.",
+      "dg": "bg4.png",
+      "character": "Крестьянин",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Вот только церковь не считает эльфов за нечисть. А причинение вреда невинным существам противоречит воле Господней и грозит обвинением в ереси. А как именно церковь поступает с еретиками мне же объяснять не надо? ",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Конечно нет, святой отец. Нам очень жаль что мы согрешили. Мы не знали…",
+      "dg": "bg4.png",
+      "character": "Крестьянин",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Не переживай, наш Бог милостив. Но в следующий раз будь внимательней.",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Хорошо, святой отец. Спасибо вам за наставление.",
+      "dg": "bg4.png",
+      "character": "Крестьянин",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Не за что. Ведь настаивать на истинный путь не ведающих мой долг как священника.",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Крестьяне ушли, оставив вас наедине с эльфийкой.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы помогли эльфийке подняться.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ты как?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Могло быть и лучше.",
+      "dg": "bg4.png",
+      "character": "Эльфийка",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я владею исцеляющей магией. Давай помогу?",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Не откажусь.",
+      "dg": "bg4.png",
+      "character": "Эльфийка",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ральф использует заклинание на эльфийке и её раны начинают затягиваться.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Как тебя зовут?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль. А вас?",
+      "dg": "bg4.png",
+      "character": "Эльфийка",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я Ральф.",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Кейл. Что ты здесь делала? В этой местности редко можно встретить представителей вашей расы.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я просто иду куда глаза глядят. А что запрещено?",
+      "dg": "bg4.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Нет.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А вы что здесь забыли?",
+      "dg": "bg4.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Я иду в Бэтфорд в поисках отца, он пропал около недели назад.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А я хочу помочь с поисками.",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Кстати с каких пор церковь перестала считать эльфов нечестью?",
+      "dg": "bg4.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Может сегодня, а может ещё где-то лет через сто.",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ты им соврал!?",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А что ещё оставалось делать? В таких отдалённых деревнях влияние ордена рыцарей слабо и тебе явно потребовалось бы много времени убедить их. А вот про то что наша церковь делает с еретиками слышали даже за пределами нашей страны.",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Не боишься, что крестьяне всё поймут и тебя самого в ереси обвинят?",
+      "dg": "bg4.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "В такие деревни новые законы доходят только через пару лет, если вообще доходят. Так что они вполне могли решить, что это очередной новый закон, который до них просто не дошёл.",
+      "dg": "bg4.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы мне сильно помогли, так что я теперь ваша должница. Я довольно неплохо сражаюсь и умею призывать духов леса. Так что давайте, в благодарность за спасение, я помогу вам с поисками твоего отца в Городе 2?",
+      "dg": "bg4.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Хорошо.",
+      "dg": "bg4.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    }
+  ],
+  "7v3": [
+    {
+      "text": "Наверно просто пьяная потосовка.",
+      "dg": "bg4.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "8": [
+    {
+      "text": "К вечеру вы наконец-то дошли до Города 2.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Бэтфорд",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Расспросив жителей города вы нашли дом вашего дяди.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "От его соседей вы узнали, что последний раз его вместе с братом видели 5 дней назад, заходящими в дом дяди.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы вскрыли дядин дом, но там никого не оказалось.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    }
+  ],
+  "9v1": [
+    {
+      "text": "Может ещё раз пойти и расспросить жителей города? Вдруг мы что-то упустили.",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Подожди у меня есть идея.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль подходит к большому дереву неподалёку от дома дяди и начинает говорить на неизвестном языке.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Из дерева появляется маленький летящий зелёный шарик.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Это дух леса?",
+      "dg": "bg5.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да. Хотя тут скорее дух дерева. Я спросила у него про твоего отца.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И что он ответил?",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Дух видел, как твой отец с хозяином этого дома, судя по всему твоим дядей, отправился в сторону леса на севере.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы отправились в сторону леса на севере.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Когда вы зашли в лес Исилиэль ещё раз призвала духов леса. Но в этот раз никто не пришёл.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Что-то не так.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль достаёт лук. Ральф начинает читать заклинание. Вы тоже достаёте меч.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Кто здесь?! Покажись!",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Справа, на два часа.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль выстреливает. Но неизвестный успевает уклониться.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы видите яркую вспышку. Но Ральф успевает поставить барьер. ",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Теперь вы узнаёте кто перед вами.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Гадалка?!",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ведьма.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Как понял?",
+      "dg": "bg6.png",
+      "character": "Ведьма",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Духи леса. Они бояться ведьм и колдунов и никогда не появиться если рядом есть хоть один.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы делаете резкий выпад вперёд сокращая дистанцию. В битве с магом важна дистанция, чем меньше дистанция тем больше шансов на победу.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Исилиэль подстраховывает вас сзади выстрелами из лука. Ральф накладывает на вас защиту и ускорение.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ведьма делает ещё пару выстрелов, но благодаря ускорению вы успеваете уклониться, не теряя в скорости.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Когда вы подходите совсем близко, то наносите удар мечом по ведьме.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ведьма злобно улыбается.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Умри! Умри так же как и твой папаша, что б ничего не осталось!",
+      "dg": "bg6.png",
+      "character": "Ведьма",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ведьма выстреливает последним заклинанием.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы пытаетесь уклониться.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ральф ставит барьер прямо перед вами.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Исилиэль стреляет в ответ.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Стрела попадает ведьме в плечо. Пока она отвлечена на боль Ральф использует связывающее закленание.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ведьма поймана.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Она же не выберется?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Навряд ли.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Думаешь над теми её словами?",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да. Но я всё равно хочу попытать удачу.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ральф и Исилиэль одновременно улыбнулись.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Бэтфорд",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Вы вернулись в Бэтфорд и посадили ведьму под стражу. Вы сообщили об ведьме в орден рыцарей и они обещали выслать ещё людей для сопровождения ведьмы в суд. ",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "На следующий день вы вернулись в лес для дальнейших поисков.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Когда вы зашли в лес Исилиэль ещё раз призвала духов леса. Но в этот раз вместо одного шарика, появилось несколько десятков.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Исилиэль снова сказала что-то на неизвестном вам языке. И духи зашевелились.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Нам нужно идти за ними?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Духи привели вас на территории между лесом и горным хребтом, вы нашли следы битвы и меч отца. Но ни отца, ни его брата там не было.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Здесь духи видели твоих отца и дядю в последний раз.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они сражались здесь с Ведьмой?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И чем закончилась битва?",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они не знают.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Боятся?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Почему?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Лесные духи боятся ведьм, ведь те для того что бы использовать магию поглощают её из других существ, в том числе и из лесных духов. ",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Поэтому они поспешили уйти от ведьмы как можно дальше и продолжения битвы они не видели.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А как тогда священники…",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Мы используем только магическую силу что дана при рождении. Правда тут многое зависит от удачи.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Почему?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Количество магической силы определяется при рождении. Она есть практически у всех, но у не многих её хватит хотя бы для простого заклинания. Хотя опыт может помочь снизить количество необходимой магической энергии.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Понятно. А духи не знают что было после того как битва закончилась?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Никого уже не было. Скорее всего случилось худшее.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А как насчёт гор? Они могли отступить туда, и лесные духи там не водятся.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И правда. Я об этом не подумала.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Хотя даже так они должны были спуститься обратно в лес рано или поздно. Ведь без специального снаряжения в горах долго не продержишься",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Проверить не помешает. В конце концов они могли просто сделать привал для восстановления сил или оказаться запертыми из-за обвала.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Тогда пойдём осмотрим горы. Но перед этим давай вернёмся в Бэтфорд за специальным оборудованием, а я заодно доложу в орден о находке.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы вернулись в Бэтфорд и закупившись всем необходимым вы продолжили поиски.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя неделю вы, во время поисков, зашли в одну из пещер на хребте.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Похоже тут тоже ничего нет. Пойдём.",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Подожди тут что-то не так.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ральф произносит заклинание и по своду пещеры начали появляется различные письмена.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Похоже здесь кого-то запечатали. Маги иногда прибегают к такому приёму, когда не могут кого-то победить.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И как раз не далеко от сюда духи показали нам место битвы.",
+      "dg": "bg8.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Но тела там не было.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Тогда здесь может быть…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Запечатан твой отец.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Или же какой-нибудь сильный монстр. Может лучше обратится в твой орден рыцарей за поддержкой?",
+      "dg": "bg8.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они скорее признают отца мёртвым, чем позволят вскрыть неизвестную печать. Так что придётся справляться имеющимися силами.",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы достаёте меч. Исилиэль натягивает лук.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ральф начинает читать заклинание.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Магические письмена начали постепенно пропадать со сводов пещеры. Когда Ральф закончил читать заклинание появилось продолжение пещеры, до этого скрытое заклинанием.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Там было два человека. Оба сильно истощены, но один из них всё ещё был в сознании.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Отец!",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Кейл!?",
+      "dg": "bg8.png",
+      "character": "Отец",
+      "img_character": null
+    },
+    {
+      "text": "Вы подбегаете к отцу и крепко его обнимаете.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ральф подходит сразу после вас и начинает читать заклинания для лечения.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Бэтфорд",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Потом вы все вместе возвращаетесь в Бэтфорд и зовёте полноценного лекаря.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Когда отцу стало лучше он рассказывает вам что он вместе с братом хотели поймать затаившеюся в этом городе ведьму. Но она, понимая, что навряд ли сможет победить, заманила их в ту пещеру и запечатала. ",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы рассказали ему о своей стычке с ведьмой и что вы её уже поймали и передали ордену для дальнейшего суда. ",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя неделю прибыли рыцари из ордена для того что бы сопроводить ведьму под суд.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Пред тем как ведьма покинет город вы решили с ней поговорить.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Почему ты хотела убить меня и моего отца?",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ты знаешь же какое наказание за тёмную магию в этой стране?",
+      "dg": "bg5.png",
+      "character": "Ведьма",
+      "img_character": "witch_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Смертная казнь.",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Верно. Твой дядя случайно узнал о том что я ведьма и вместе с твоим отцом решили поймать меня и отдать под суд. Для меня это значило бы смерть. Убей сам или будь убитым. После этого я решила покинуть страну.",
+      "dg": "bg5.png",
+      "character": "Ведьма",
+      "img_character": "witch_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Тогда зачем ты вернулась? И почему хотела убить нас?",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "С этой страной соседствуют ещё две страны. С первой я изначально сбежала сюда, поэтому вернуться не могу. Оставалось только бежать во вторую, но для этого нужно пересечь горный хребет, а одной это сделать практически невозможно. ",
+      "dg": "bg5.png",
+      "character": "Ведьма",
+      "img_character": "witch_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Поэтому я при примкнула к труппе, которая как раз направлялась в эту страну. Но я не ожидала что ты так быстро поймёшь, что с твой отец пропал и отправишься на поиски. Городские навряд ли бы разгадали мою ловушку, а вот насчёт тебя уверенности не было.",
+      "dg": "bg5.png",
+      "character": "Ведьма",
+      "img_character": "witch_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Найди ты отца быстро, я бы скорее всего не успела покинуть страну и была поймана, а твоя смерть дала бы мне ещё немного времени достаточного на побег. Но видно удача была не на моей стороне.",
+      "dg": "bg5.png",
+      "character": "Ведьма",
+      "img_character": "witch_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Есть ещё что спросить?",
+      "dg": "bg5.png",
+      "character": "Ведьма",
+      "img_character": "witch_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Нет.",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ну тогда прощай.",
+      "dg": "bg5.png",
+      "character": "Ведьма",
+      "img_character": "witch_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Прощай.",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Спустя ещё пару недель, когда отцу стало лучше, вы собрали вещи, попрощались с Ральфом, Исилиэль и дядей и вместе с отцом отправились домой.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "КОНЕЦ",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    }
+  ],
+  "9v2": [
+    {
+      "text": "Вы ещё раз опросили жителей города, но ничего нового узнать не удалось.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Тогда вы решили осмотреть окрестности в поисках каких-либо следов отца.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Пока вы пробирались по лесу, пока в какой-то момент поняли, что застряли в чём-то похожем на трясину и не можете выбраться.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Трясина? Посреди леса?",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Что-то не так… Ловушка?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы замечаете яркую вспышку и в последний момент успеваете уклониться.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ральф?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Но Ральф не успевает.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "На месте где он стоял больше ничего нет. Только запаха гари.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы поняли, что ещё глубже застряли в трясине",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы замечаете новую вспышку.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Но уклониться уже не получится…",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "КОНЕЦ",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    }
+  ],
+  "9v3": [
+    {
+      "text": "Может ещё раз пойти и расспросить жителей города? Вдруг мы что-то упустили.",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Подожди у меня есть идея.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль подходит к большому дереву неподалёку от дома дяди и начинает говорить на неизвестном языке.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Из дерева появляется маленький летящий зелёный шарик.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Что это?",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "На вашем языке их называют духи леса. Хотя тут скорее дух дерева. Я спросила у него про твоего отца.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И что он ответил?",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Он видел, как твой отец с хозяином этого дома, судя по всему его братом, отправился в сторону леса на севере.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы отправились в сторону леса на севере.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Когда вы зашли в лес Исилиэль ещё раз призвала духов леса. Но в этот раз никто не пришёл.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Что-то не так.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль натягивает лук. Вы тоже достаёте меч.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Кто здесь?! Покажись!",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Справа, на два часа. ",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль выстреливает. Но неизвестный успевает уклониться.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы видите яркую вспышку. Но успеваете уклониться. ",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Теперь вы узнаёте кто перед вами.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Гадалка?!",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ведьма.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Как поняла?",
+      "dg": "bg6.png",
+      "character": "Ведьма",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Духи леса. Они бояться ведьм и колдунов и никогда не появиться если рядом есть хоть один.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы делаете резкий выпад вперёд сокращая дистанцию. В битве с магом важна дистанция, чем меньше дистанция, тем больше шансов на победу",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Исилиэль подстраховывает вас сзади выстрелами из лука.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ведьма делает ещё пару выстрелов, но вы успеваете уклониться пусть и теряете в скорости.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Когда вы подходите совсем близко, то наносите удар мечом по ведьме.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ведьма злобно улыбается.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Умри! Умри так же как и твой папаша, что б ничего не осталось!",
+      "dg": "bg6.png",
+      "character": "Ведьма",
+      "img_character": "witch_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ведьма выстреливает последним заклинанием.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы пытаетесь уклониться.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Исилиэль стреляет в ответ.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Стрела попадает ведьме прямо в голову.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы всё ещё живы. Ведьма мертва. ",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Почему ты так испугано выглядишь Исилиэль? Мы же победили.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы понимаете, что что-то не так.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы смотрите на свою правую руку и понимаете что именно не так.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вашей правой руки больше нет.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ноги подкашиваются, перед глазами темнеет и вы теряете сознание.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "…",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Бэтфорд",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Пришли в себя уже в больнице.",
+      "dg": "bg7.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ты как?",
+      "dg": "bg7.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Нормально.",
+      "dg": "bg7.png",
+      "character": "Кейл",
+      "img_character": "keil_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы смотрите на свою правую руку и понимаете, что её действительно больше нет.",
+      "dg": "bg7.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Прости…",
+      "dg": "bg7.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да не переживай. У нас в городе делают неплохие протезы. Правда с карьерой рыцаря похоже… придётся закончить. Но возможно… возможно это и к лучшему… ",
+      "dg": "bg7.png",
+      "character": "Кейл",
+      "img_character": "keil_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg7.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Знаешь, у меня и не особо хорошо получалось. В моём возрасте отец…",
+      "dg": "bg7.png",
+      "character": "Кейл",
+      "img_character": "keil_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg7.png",
+      "character": "Кейл",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Какое-то время в комнате стоит тишина.",
+      "dg": "bg7.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "И долго я был без сознания?",
+      "dg": "bg7.png",
+      "character": "Кейл",
+      "img_character": "keil_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Три дня.",
+      "dg": "bg7.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ещё я снова ходила в лес. В этот раз духи отозвались.",
+      "dg": "bg7.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И?",
+      "dg": "bg7.png",
+      "character": "Кейл",
+      "img_character": "keil_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Твой отец с дядей вступили в бой с ведьмой. Духи ушли подальше, а когда вернулись никого уже не было. Не думаю, что ведьма соврала.",
+      "dg": "bg7.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": " Я… Оставь меня одного пожалуйста…",
+      "dg": "bg7.png",
+      "character": "Кейл",
+      "img_character": "keil_2.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Хорошо.",
+      "dg": "bg7.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Спустя ещё три дня вы попрощались с Исилиэль и пошли обратно. Без отца…",
+      "dg": "bg7.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "КОНЕЦ",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    }
+  ],
+  "9v4": [
+    {
+      "text": "Вы ещё раз опросили жителей города, но ничего нового узнать не удалось.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Тогда вы решили осмотреть окрестности в поисках каких-либо следов отца.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Вы пробирались по лесу, пока в какой-то момент поняли, что застряли в чём-то похожем на трясину и не можете выбраться.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Трясина? Посреди леса? Что-то не так… Ловушка?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы замечаете яркую вспышку и в последний момент успеваете уклониться.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Но из-за этого ещё глубже застряли в трясине.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы замечаете новую вспышку.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Но уклониться уже не получится…",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "КОНЕЦ",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    }
+  ],
+  "9v5": [
+    {
+      "text": "Может ещё раз пойти и расспросить жителей города? Вдруг мы что-то упустили.",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Подождите у меня есть идея.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль подходит к большому дереву неподалёку от дома дяди и начинает говорить на неизвестном вам языке.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Из дерева появляется маленький летящий зелёный шарик.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Это дух леса?",
+      "dg": "bg5.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да. Хотя тут скорее дух дерева. Я спросила у него про твоего отца.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И что он ответил?",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Он видел, как твой отец с хозяином этого дома, судя по всему его братом, отправился в сторону леса на севере.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы отправились в сторону леса на севере.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Когда вы зашли в лес Исилиэль ещё раз призвала духов леса. Но в этот раз вместо одного шарика, появилось несколько десятков.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Исилиэль снова сказала что-то на неизвестном вам языке. И духи зашевелились.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Нам нужно идти за ними?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Духи привели вас на территории между лесом и горным хребтом, вы нашли следы битвы и меч отца. Но ни отца, ни дяди там не было.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Здесь духи видели твоего отца и дядю в последний раз.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они знают с кем они сражались?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да. С ведьмой. ",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И чем закончилась битва?",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они не знают.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Но это же всё ещё лес, их территория…",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да, но лесные духи боятся ведьм, ведь те для того что бы использовать магию поглощают её из других существ, в том числе и из лесных духов. ",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Поэтому они поспешили уйти от ведьмы как можно дальше и продолжения битвы они не видели.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А как тогда священники…",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Мы используем только магическую силу что дана при рождении. Правда тут многое зависит от удачи.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Почему?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Количество магической силы определяется при рождении. Она есть практически у всех, но у не многих её хватит хотя бы для простого заклинания. Хотя опыт может помочь снизить количество необходимой энергии.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Понятно. А духи не знают что было когда битва закончилась?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Никого уже не было. Скорее всего случилось худшее.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А как насчёт гор? Они могли отступить туда, и лесные духи там не водятся.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И правда. Я об этом не подумала. ",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Хотя даже так они должны были спуститься обратно в лес рано или поздно. Ведь без специального снаряжения в горах долго не продержишься.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Проверить не помешает. В конце концов они могли просто сделать привал для восстановления сил или оказаться запертыми из-за обвала.",
+      "dg": "bg6.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Тогда пойдём осмотрим горы. Но перед этим давай вернёмся в Бэтфорд за специальным оборудованием, а я заодно доложу в орден о ведьме.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Бэтфорд",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Вы вернулись в Бэтфорд, доложили о найденном в орден и закупившись всем необходимым вы продолжили поиски.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Спустя неделю вы, во время поисков, зашли в пещеру на хребте.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Похоже тут тоже ничего нет. Пойдём.",
+      "dg": "bg8.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Подождите тут что-то не так.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ральф произносит заклинание и по своду пещеры начали появляется различные письмена.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Похоже здесь кого-то запечатали. Маги иногда прибегают к такому приёму, когда не могут кого-то победить.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И как раз не далеко от сюда духи показали нам место битвы.",
+      "dg": "bg8.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Но тела мы не нашли.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Тогда здесь может быть…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Запечатан твой отец.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Или же какой-нибудь сильный монстр. Может лучше обратится в твой орден рыцарей за поддержкой?",
+      "dg": "bg8.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они скорее признают отца мёртвым, чем позволят вскрыть неизвестную печать. Так что придётся справляться имеющимися силами.",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы достаёте меч. Исилиэль натягивает лук.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ральф начинает читать заклинание.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Магические письмена начали постепенно пропадать со сводов пещеры. Когда Ральф закончил читать заклинание появилось продолжение пещеры, до этого скрытое заклинанием.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Там было два человека. Оба сильно истощены, но один из них всё ещё был в сознании.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Отец!",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Кейл!?",
+      "dg": "bg8.png",
+      "character": "Отец",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы подбегаете к отцу и крепко его обнимаете.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ральф подходит сразу после вас и начинает читать заклинания для лечения.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Бэтфорд",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Потом вы все вместе возвращаетесь в Бэтфорд и зовёте полноценного лекаря.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Когда отцу стало лучше он рассказывает вам что он вместе с братом хотели поймать затаившеюся в этом городе ведьму. Но она, понимая, что навряд ли сможет победить, заманила их в ту пещеру и запечатала. ",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы тут же сообщили о ведьме в орден, и они успевают её перехватить до того, как она успела сбежать из страны.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя пару недель, когда отцу стало лучше, вы собрали вещи, попрощались с Ральфом, Исилиэль и дядей и вместе с отцом отправились домой.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "КОНЕЦ",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    }
+  ],
+  "9v6": [
+    {
+      "text": "Вы ещё раз опросили жителей города, но ничего нового узнать не удалось.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Тогда вы решили осмотреть окрестности в поисках каких-либо следов отца.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Спустя неделю вы ничего не нашли.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спусти ещё неделю всё ещё ничего.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "И ещё неделю спустя тоже ничего…",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "На четвёртую неделю, на территории между лесом и горным хребтом, вы нашли следы битвы и меч отца. Но не отца, ни его брата вы не нашли. ",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Доложив о находке в орден вы продолжили поиски.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя неделю вы, во время поисков, зашли в пещеру на горном хребте.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Похоже тут тоже ничего нет. Пойдём.",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Подожди тут что-то не так.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Ральф произносит заклинание и по своду пещеры начали появляется различные письмена.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Похоже здесь кого-то запечатали. Маги иногда прибегают к такому приёму, когда не могут кого-то победить.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Как раз не далеко от сюда мы нашли меч и следы битвы.",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Но тела не нашли.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Тогда здесь может быть…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Запечатан твой отец.",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Или же какой-нибудь сильный монстр. Может лучше обратится в твой орден рыцарей за поддержкой?",
+      "dg": "bg8.png",
+      "character": "Ральф",
+      "img_character": "priest_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они скорее признают отца мёртвым, чем позволят вскрыть неизвестную печать. Так что придётся справляться имеющимися силами.",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы достаёте меч.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ральф начинает читать заклинание.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Магические письмена начали постепенно пропадать со сводов пещеры. Когда Ральф закончил читать заклинание появилось продолжение пещеры, до этого скрытое заклинанием.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Там было два человека. Оба сильно истощены, но один из них всё ещё был в сознании.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Отец!",
+      "dg": "bg8.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Кейл!?",
+      "dg": "bg8.png",
+      "character": "Отец",
+      "img_character": null,
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы подбегаете к отцу и крепко его обнимаете.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Ральф подходит сразу после вас и начинает читать заклинания для лечения.",
+      "dg": "bg8.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Бэтфорд",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Потом вы все вместе возвращаетесь в Бэтфорд и зовёте полноценного лекаря.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Когда отцу стало лучше он рассказывает вам что он вместе с братом хотели поймать затаившеюся в этом городе ведьму. Но она, понимая, что навряд ли сможет победить, заманила их в ту пещеру и запечатала. ",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы тут же сообщили о ведьме в орден, но судя по всему она уже сбежала из страны.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя пару недель, когда отцу стало лучше, вы собрали вещи, попрощались с Ральфом и дядей и вместе с отцом отправились домой",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "КОНЕЦ",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    }
+  ],
+  "9v7": [
+    {
+      "text": "Может ещё раз пойти и расспросить жителей города? Вдруг мы что-то упустили.",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Подожди у меня есть идея.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Исилиэль подходит к большому дереву неподалёку от дома дяди и начинает говорить на неизвестном вам языке.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Из дерева появляется маленький летящий зелёный шарик.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Что это?",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "На вашем языке их называют духи леса. Хотя тут скорее дух дерева. Я спросила у него про твоего отца.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И что он ответил?",
+      "dg": "bg5.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Он видел, как твой отец с хозяином этого дома, судя по всему его братом, отправился в сторону леса на севере.",
+      "dg": "bg5.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы отправились в сторону леса на севере.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Когда вы зашли в лес Исилиэль ещё раз призвала духов леса. Но в этот раз вместо одного шарика, появилось несколько десятков.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Исилиэль снова сказала что-то на неизвестном вам языке. И духи зашевелились.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Нам нужно идти за ними?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Духи привели вас на территории между лесом и горным хребтом, вы нашли следы битвы и меч отца. Но не отца, там не было.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Здесь духи видели твоего отца и дядю в последний раз.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они знают с кем они сражались?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да. С ведьмой. ",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И чем закончилась битва?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Они не знают.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Но это же всё ещё лес, их территория…",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Да, но лесные духи боятся ведьм, ведь те для того что бы использовать магию поглощают её из других существ, в том числе и из лесных духов. ",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Поэтому они поспешили уйти от ведьмы как можно дальше и продолжения битвы они не видели.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А когда битва закончилась?",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Никого уже не было. Скорее всего случилось худшее.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "…",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "А как насчёт гор? Они могли отступить туда, и не похоже что бы там были духи.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "И правда. Я об этом не подумала. ",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Хотя даже так они должны были спуститься обратно в лес рано или поздно. Ведь без специального снаряжения в горах долго не полазишь.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Проверить не помешает. В конце концов они могли просто сделать привал для восстановления сил или оказаться запертыми из-за обвала.",
+      "dg": "bg6.png",
+      "character": "Исилиэль",
+      "img_character": "elf_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Тогда пойдём осмотрим горы. Но перед этим давай вернёмся в Бэтфорд за специальным оборудованием, а я заодно доложу в орден о ведьме.",
+      "dg": "bg6.png",
+      "character": "Кейл",
+      "img_character": "keil_1.png",
+      "type": "dialogue"
+    },
+    {
+      "text": "Вы вернулись в Бэтфорд, доложили о найденном в орден и закупившись всем необходимым вы продолжили поиски.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя неделю ничего нового найдено не было.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спусти ещё неделю всё ещё ничего.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя ещё месяц орденом было принято решении о присвоении отцу статуса мёртвого.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы закончил поиски, попрощались с Исилиэль и вернулся обратно. Без отца…",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "КОНЕЦ",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    }
+  ],
+  "9v8": [
+    {
+      "text": "Вы ещё раз опросили жителей города, но ничего нового узнать не удалось.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Тогда вы решили осмотреть окрестности в поисках каких-либо следов отца.",
+      "dg": "bg5.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "ЛЕС",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    },
+    {
+      "text": "Спустя неделю вы ничего не нашли.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя ещё неделю всё ещё ничего.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "И ещё неделю спустя тоже ничего…",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "На четвёртую неделю, на территории между лесом и горным хребтом, вы нашли следы битвы и меч отца. Но не отца, ни его брата там не было. ",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Доложив о находке в орден вы продолжили поиски.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя неделю ничего нового найдено не было.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спусти ещё неделю всё ещё ничего.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Спустя ещё месяц орденом было принято решении о присвоении отцу статуса мёртвого.",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "Вы закончил поиски и вернулся обратно. Без отца…",
+      "dg": "bg6.png",
+      "character": null,
+      "img_character": null,
+      "type": "action"
+    },
+    {
+      "text": "КОНЕЦ",
+      "dg": "bg0.png",
+      "character": null,
+      "img_character": null,
+      "type": "header"
+    }
+  ]
+}

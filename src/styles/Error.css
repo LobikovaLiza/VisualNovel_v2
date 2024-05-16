@@ -1,0 +1,30 @@
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+    bottom: 0;
+    left: 0;
+    width: 30vw;
+    min-height: 30vh;
+    color: white;
+    text-align: center;
+    font-size: 1.1em;
+}
+.link {
+    min-width: 30vw;
+    min-height: 5vh;
+    background: rgb(61,61,61);
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border: 1px solid white;
+    box-shadow: 0 0 0 2px rgb(61,61,61), 0 0 0 1px white;
+}
+.error {
+    min-width: 35vw;
+    min-height: 8vh;
+    font-size: 35px;
+    background: rgb(61,61,61);
+    background: linear-gradient(116deg, rgba(61,61,61,0.8) 0%, rgba(179,179,179,0.27798214012167366) 100%);
+    border: 1px solid white;
+    box-shadow: 0 0 0 2px rgb(61,61,61), 0 0 0 1px white;
+}
